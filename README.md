@@ -4,7 +4,7 @@ A standalone Minecraft "player" bot that logs into an online-mode server, listen
 
 ## Features
 - Logs in with a real Microsoft/Mojang account  
-- Not a mod and can be run on a seperate machine. 
+- Not a mod and can be run on a separate machine. 
 - Uses `!gpt <your question>` in chat to trigger GPT-4o responses  
 - Easy to configure via a `.env` file  
 
@@ -31,7 +31,7 @@ A standalone Minecraft "player" bot that logs into an online-mode server, listen
    ```
 
 ## Configuration
-1. In the `MCGPT` root, edit the file called `.env`
+1. In the `MCGPT` root, edit the file called `.env` to match your settings. 
    It should look like this
    ```.env
    MINECRAFT_HOST=your.server.ip
